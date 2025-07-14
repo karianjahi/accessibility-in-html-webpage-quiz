@@ -56,9 +56,9 @@ accessibility-in-html-webpage-quiz/
 
 - Importance of associating labels correctly with form inputs
 
-- The difference between inline, inline-block, and block for layout behavior
+- The difference between `inline`, `inline-block`, and `block` for layout behavior
 
-- Responsive styling using max-width, vw, and media queries
+- Responsive styling using `max-width`, `vw`, and `media queries`
 
 - How accessibility and design go hand-in-hand
 
